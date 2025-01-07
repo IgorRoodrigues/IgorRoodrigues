@@ -11,6 +11,7 @@
   <img align="center" alt="Igor-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Igor-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Igor-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+   <img align="center" alt="Igor-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/python-original.svg">
   <img align="right" alt="Igor-pic" height="170" style="border-radius:60px;" src="https://i.pinimg.com/originals/f8/27/e0/f827e06ad084ee279e4a2542a4cf48ff.jpg">
 </div>
 <br>
